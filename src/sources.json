@@ -1,0 +1,14 @@
+{
+  "categories": [
+    { "name": "youtube", "file": "youtube.json" },
+    { "name": "spotify", "file": "spotify.json" },
+    { "name": "anime", "file": "anime.json" },
+    { "name": "podcasts", "file": "podcasts.json" },
+    { "name": "subtitles", "file": "subtitles.json" },
+    { "name": "creative-commons", "file": "creative-commons.json" },
+    { "name": "internet-archive", "file": "internet-archive.json" },
+    { "name": "wikimedia", "file": "wikimedia.json" },
+    { "name": "live-tv", "file": "live-tv.json" },
+    { "name": "hls", "file": "hls.json" }
+  ]
+}

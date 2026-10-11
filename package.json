@@ -1,0 +1,40 @@
+{
+  "name": "nanojet-media-catalog",
+  "version": "1.0.0",
+  "description": "Legal-only media catalog and metadata API for NanoJet iOS",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "check-sources": "node src/scripts/check-sources.js",
+    "update-sources": "node src/scripts/update-sources.js",
+    "test": "node --test src/test/*.test.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "media",
+    "catalog",
+    "api",
+    "youtube",
+    "spotify",
+    "anime",
+    "subtitles",
+    "podcasts",
+    "creative-commons",
+    "public-domain",
+    "legal",
+    "nanojet"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kurucu001-droid/nanojet-media-catalo.git"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "supertest": "^7.0.0"
+  }
+}

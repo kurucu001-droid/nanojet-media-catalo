@@ -1,4 +1,4 @@
-node_modules
+node_modules/
 npm-debug.log*
 npm-debug.log*.*
 .npm
@@ -9,13 +9,13 @@ npm-debug.log*.*
 .env
 .env.local
 .env.*.local
-coverage
-.nyc_output
-dist
-build
+coverage/
+.nyc_output/
+dist/
+build/
 .DS_Store
-.vscode
-.idea
+.vscode/
+.idea/
 *.swp
 *.swo
 *~
